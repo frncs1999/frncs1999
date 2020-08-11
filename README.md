@@ -1,4 +1,4 @@
-# I'm Francis!
+# Hi, I'm Francis!
 ***
   I'm  a computer engineering degree holder who is currently learning anything there is in the field of software and web development.<br>
   I'm new to this so feel free to ask and suggest me anything, kindly contact me here <francisresugenio09@gmail.com>.
