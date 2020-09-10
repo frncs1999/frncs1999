@@ -1,9 +1,8 @@
 # Hi, I'm Francis!
 ***
   I'm  a computer engineering degree holder who is currently learning anything there is in the field of software and web development.<br>
-  I'm new to this so feel free to ask and suggest me anything, kindly contact me here <francisresugenio09@gmail.com>.
   <br><br>
-  Welcome and Thank you!
+  Welcome to my github account!
 <!--
 **frncs1999/frncs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
